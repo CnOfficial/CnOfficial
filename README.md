@@ -31,10 +31,10 @@
 <br />
 
 <details>
-  <summary>:zap: GitHub Profile Info (clickable) </summary>
+  <summary>:zap: GitHub Profile Info </summary>
   <h1 align="center">Profile Status</h1>
   <details>
-    <summary>:zap: Languages (clickabe) </summary>
+    <summary>:zap: Languages </summary>
   <img align="center" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CnOfficial&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)" />
     </details>
   
